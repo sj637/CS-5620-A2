@@ -60,7 +60,7 @@ public class OrthographicCamera extends Camera {
         // 1) If the view is not yet initialized, initialize it.   	
     	     if(!this.initialized) 
     	    	 initView();
-        System.out.println("hey");
+        System.out.println("haaaaaaaa");
     	    
         // 2) Transform inU so that it lies between [-viewWidth / 2, +viewWidth / 2] 
         //    instead of [0, 1]. Similarly, transform inV so that its range is
